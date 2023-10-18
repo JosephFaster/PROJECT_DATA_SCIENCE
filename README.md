@@ -1,3 +1,3 @@
-# PROJECT_DATA_SCIENCE
-Proyectos de ciencia de datos
-#Aqui hay una lista de los proyectos aprobados y subidos, el numero incrementará conforme vayan aprobando el resto de proyectos.
+# DATA_SCIENCE_PROJECT
+Data Science Projects
+# The number of projects will increase, these projects support the experience I have doing real projects that I can make public.
